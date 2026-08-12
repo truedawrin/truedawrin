@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dawrin 👋
 
-<!--
-**truedawrin/truedawrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Currently learning **Cybersecurity** — focused on both Blue and red teaming, offensive security fundamentals.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+- Networking & Linux fundamentals
+- Vulnerability assessment & exploitation basics
+- Red team tactics: recon → exploitation → reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I'm Getting Familiar With
+`Nmap` `Wire Shark` `Kali Linux` `Python`
+
+## 🧪 Practicing On
+- TryHackMe
+- HackTheBox
+
+## 💻 Also Building
+Outside of security, I run **TrueDeal**, my own electronics reselling brand in Haiti.
+
+## 📫 Reach Me
+Feel free to connect — always open to learning together.
+
+---
+*All practice done on legal, authorized lab environments only.*
