@@ -1,15 +1,49 @@
+<div align="center">
+
 # Hi, I'm Dawrin 👋
 
-## About Me
-🔐 Currently learning **Cybersecurity** — focused on both Blue and red teaming, offensive security fundamentals.
+### Aspiring Cybersecurity Professional | Red & Blue Team Fundamentals | Builder
 
-## 💻 Projetcs
-- [**true touch**](https://github.com/truedawrin/true-touch) is my first projects and its a mass file/dir creator for bash check it out!
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Learning+Offensive+Security...;Recon+%E2%86%92+Exploitation+%E2%86%92+Reporting;Building+tools+while+I+learn;Currently+on+TryHackMe+%2F+HackTheBox)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/truedawrin?style=for-the-badge&color=black&logo=github)](https://github.com/truedawrin)
+[![Profile Views](https://komarev.com/ghpvc/?username=truedawrin&style=for-the-badge&color=blueviolet)](https://github.com/truedawrin)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Practicing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+
+</div>
+
+<br/>
+
+## 🔐 About Me
+
+Currently learning **Cybersecurity** — focused on both **Blue** and **Red** teaming, and offensive security fundamentals. I like understanding systems by building them, then breaking them.
+
+<br/>
+
+## 💻 Projects
+
+<div align="left">
+
+[![true-touch](https://img.shields.io/badge/⚡_true--touch-Mass_File%2FDir_Creator-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/truedawrin/true-touch)
+
+</div>
+
+My first project — an interactive **Bash** tool that mass-produces files and directories in a single run, no `touch`/`mkdir` syntax to remember. Click the badge above to check it out ⬆️
+
+<br/>
 
 ## 🌱 What I'm Learning
+
 - Networking & Linux fundamentals
 - Vulnerability assessment & exploitation basics
 - Red team tactics: recon → exploitation → reporting
+
+<br/>
 
 ## 🧰 Tech & Tools
 
@@ -24,21 +58,65 @@
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+</div>
 
+<br/>
 
 ## 🛠️ Tools I'm Getting Familiar With
-`Nmap` `Wire Shark` `Kali Linux` `Python`
+
+<div align="left">
+
+![Nmap](https://img.shields.io/badge/Nmap-1E88E5?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+<br/>
 
 ## 🧪 Practicing On
-- TryHackMe
-- HackTheBox
 
-## 💻 Also Building
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.com/)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=truedawrin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dawrin's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=truedawrin&theme=radical&hide_border=true" alt="Dawrin's GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truedawrin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<br/>
+
+## 💼 Also Building
+
 Outside of security, I run **TrueDeal**, my own electronics reselling brand in Haiti.
 
+<br/>
+
 ## 📫 Reach Me
+
 Feel free to connect — always open to learning together.
 
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-truedawrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truedawrin)
+
+</div>
+
+<br/>
+
 ---
+
+<div align="center">
+
 *All practice done on legal, authorized lab environments only.*
+
+</div>
