@@ -55,7 +55,6 @@ My first project — an interactive **Bash** tool that mass-produces files and d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -77,8 +76,7 @@ My first project — an interactive **Bash** tool that mass-produces files and d
 
 ## 🧪 Practicing On
 
-- [TryHackMe](https://tryhackme.com/)
-- [HackTheBox](https://www.hackthebox.com/)
+- [TryHackMe]([https://tryhackme.com/](https://tryhackme.com/p/truedawrin))
 
 <br/>
 
@@ -86,10 +84,7 @@ My first project — an interactive **Bash** tool that mass-produces files and d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=truedawrin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dawrin's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=truedawrin&theme=radical&hide_border=true" alt="Dawrin's GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truedawrin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+[![Dawrin's GitHub stats](https://github-stats-extended.vercel.app/api?username=truedawrin)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
@@ -108,6 +103,8 @@ Feel free to connect — always open to learning together.
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-truedawrin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truedawrin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawrin_Balram_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawrin-balram-paul-1734b7428)
+[![Discord](https://img.shields.io/badge/Discord-truedawrin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/truedawrin)
 
 </div>
 
