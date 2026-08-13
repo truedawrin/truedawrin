@@ -1,5 +1,6 @@
 # Hi, I'm Dawrin 👋
 
+## About Me
 🔐 Currently learning **Cybersecurity** — focused on both Blue and red teaming, offensive security fundamentals.
 
 ## 💻 Projetcs
