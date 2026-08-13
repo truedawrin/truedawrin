@@ -76,7 +76,7 @@ My first project — an interactive **Bash** tool that mass-produces files and d
 
 ## 🧪 Practicing On
 
-- [TryHackMe]([https://tryhackme.com/](https://tryhackme.com/p/truedawrin))
+- [TryHackMe](https://tryhackme.com/p/truedawrin)
 
 <br/>
 
@@ -89,10 +89,6 @@ My first project — an interactive **Bash** tool that mass-produces files and d
 </div>
 
 <br/>
-
-## 💼 Also Building
-
-Outside of security, I run **TrueDeal**, my own electronics reselling brand in Haiti.
 
 <br/>
 
