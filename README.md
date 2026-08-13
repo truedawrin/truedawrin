@@ -1,8 +1,9 @@
 # Hi, I'm Dawrin 👋
 
 🔐 Currently learning **Cybersecurity** — focused on both Blue and red teaming, offensive security fundamentals.
+
 ## 💻 Projetcs
-- **true touch** is my first projects and its a mass file/dir creator for bash check it out!
+- [**true touch**](https://github.com/truedawrin/true-touch) is my first projects and its a mass file/dir creator for bash check it out!
 
 ## 🌱 What I'm Learning
 - Networking & Linux fundamentals
