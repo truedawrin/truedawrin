@@ -24,6 +24,8 @@
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
+
 
 ## 🛠️ Tools I'm Getting Familiar With
 `Nmap` `Wire Shark` `Kali Linux` `Python`
