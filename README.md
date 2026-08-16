@@ -2,6 +2,8 @@
 
 # Hi, I'm Dawrin 👋
 
+### For more information on my portfolio click this [portfolio](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/README.md)
+
 ### Aspiring Cybersecurity Professional | Red & Blue Team Fundamentals | Builder
 
 <br/>
@@ -34,6 +36,8 @@ Currently learning **Cybersecurity** — focused on both **Blue** and **Red** te
 My first project — an interactive **Bash** tool that mass-produces files and directories in a single run, no `touch`/`mkdir` syntax to remember. Click the badge above to check it out ⬆️
 
 [![IP-Sweep](https://img.shields.io/badge/IP--Sweep-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/ip-sweep.md)
+
+A lightweight Bash-based IP sweep tool for discovering active hosts on an authorized network.
 </div>
 
 
