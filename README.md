@@ -16,6 +16,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=truedawrin&style=for-the-badge&color=blueviolet)](https://github.com/truedawrin)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Practicing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+![Static Badge](https://img.shields.io/badge/Focus-Pen%20tester%20and%20Soc%20analyst-purple)
+![Learning](https://img.shields.io/badge/Status-Learning-green)
 
 </div>
 
