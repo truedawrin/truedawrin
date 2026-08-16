@@ -31,10 +31,12 @@ Currently learning **Cybersecurity** — focused on both **Blue** and **Red** te
 
 [![true-touch](https://img.shields.io/badge/⚡_true--touch-Mass_File%2FDir_Creator-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/truedawrin/true-touch)
 
+My first project — an interactive **Bash** tool that mass-produces files and directories in a single run, no `touch`/`mkdir` syntax to remember. Click the badge above to check it out ⬆️
+
 [![IP-Sweep](https://img.shields.io/badge/IP--Sweep-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/truedawrin/Cybersecurity.portfolio/blob/main/projects/bash-projects/ip-sweep.md)
 </div>
 
-My first project — an interactive **Bash** tool that mass-produces files and directories in a single run, no `touch`/`mkdir` syntax to remember. Click the badge above to check it out ⬆️
+
 
 <br/>
 
