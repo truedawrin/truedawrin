@@ -16,8 +16,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/truedawrin?style=for-the-badge&color=black&logo=github)](https://github.com/truedawrin)
 [![Profile Views](https://komarev.com/ghpvc/?username=truedawrin&style=for-the-badge&color=blueviolet)](https://github.com/truedawrin)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Practicing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Practicing-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/truedawrin)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Practicing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
 
 </div>
 
