@@ -97,6 +97,8 @@ Practicing cybersecurity through guided rooms and learning paths covering:
 
 Using machines and challenges to strengthen practical enumeration, exploitation, and problem-solving skills,
 progress later, currently learning with AI as my teacher
+
+
 [![Hack The Box](https://img.shields.io/badge/View%20My%20HTB%20Profile-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=black)](https://profile.hackthebox.com/profile/019fa053-98f3-7311-8bc3-dc35d5ad04e2)
 
 ### Home Labs
