@@ -7,7 +7,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Penetration%20Testing%20%7C%20Security%20Analysis-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-00C853?style=for-the-badge)
 
-**Self-taught cybersecurity learner building practical skills through labs, CTFs, projects, and continuous study, with AI as my teahcer.**
+**Self-taught cybersecurity learner building practical skills through labs, CTFs, projects, and continuous study, with AI as my teacher.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1200\&color=00FF9C\&center=true\&vCenter=true\&width=600\&lines=Learning+Offensive+%26+Defensive+Security...;Recon+%E2%86%92+Enumeration+%E2%86%92+Exploitation;Analyze+%E2%86%92+Document+%E2%86%92+Improve;Building+security+tools+while+I+learn;TryHackMe+%7C+Hack+The+Box+%7C+Home+Labs)](https://git.io/typing-svg)
 
